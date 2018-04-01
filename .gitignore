@@ -1,0 +1,5 @@
+node_modules/
+twitter.log
+package-lock.json
+bot.yml
+.idea

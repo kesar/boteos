@@ -1,0 +1,5 @@
+log:
+  file: bot.log
+  level: "info"
+telegram:
+  token: your:token
