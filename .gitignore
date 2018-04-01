@@ -1,5 +1,5 @@
 node_modules/
-twitter.log
+bot.log
 package-lock.json
 bot.yml
 .idea

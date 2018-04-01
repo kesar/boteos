@@ -3,3 +3,4 @@ log:
   level: "info"
 telegram:
   token: your:token
+banned_words: ["tinyurl"]
