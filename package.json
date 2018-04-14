@@ -4,8 +4,10 @@
   "description": "node.js bot anti spam",
   "main": "boteos",
   "dependencies": {
-    "node-telegram-bot-api": "^0.30.0",
     "js-yaml": "~3.2.2",
+    "mongoose": "^5.0.14",
+    "node-telegram-bot-api": "^0.30.0",
+    "npm": "^5.8.0",
     "winston": "~0.8.1"
   },
   "devDependencies": {},

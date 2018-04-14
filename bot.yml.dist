@@ -4,3 +4,4 @@ log:
 telegram:
   token: your:token
 banned_words: ["tinyurl"]
+mongodb: mongodb://chatlog:chatlog@localhost/chatlog # optional, it will log channels to mongodb
