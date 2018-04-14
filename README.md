@@ -26,3 +26,8 @@ A bot token is required and can be obtained by talking to <a href="https://teleg
 ------------
 
 After create your bot token and setup your config, just run `npm start`. Then you will need to invite your bot to the desired channels and add him as Admin.
+
+📌 Log channel into Mongo
+------------
+
+mongodb is optional, if you define your mongodb connection string, you will be able to log all the messages into your database. You may need to /setprivacy (with BotFather) of your bot to allow access to channel msgs.
